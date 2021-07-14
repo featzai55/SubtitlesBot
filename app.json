@@ -7,12 +7,12 @@
         "searcher",
         "download"
     ],
-    "website": "https://github.com/Anandpskerala/SubtitlesBot",
-    "repository": "https://github.com/Anandpskerala/SubtitlesBot",
+    "website": "https://github.com/featzai55/SubtitlesBot",
+    "repository": "https://github.com/featzai55/SubtitlesBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": ""
+            "value": "1898039570:AAEixLvZWEVHp3PLqJ7dF8cTAsUM4cPvqVU"
         }
       },
 "addons": [],
